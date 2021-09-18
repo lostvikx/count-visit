@@ -1,7 +1,7 @@
 {
   "name": "count-visit",
   "version": "1.0.1",
-  "description": "",
+  "description": "counts (also increments) the number of clicks on the site and displays it",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
